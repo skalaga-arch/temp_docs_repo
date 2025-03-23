@@ -44,3 +44,17 @@ def divide(a: float, b: float) -> float:
     if b == 0:
         raise ZeroDivisionError("Cannot divide by zero.")
     return a / b
+
+
+def percent(a: float, b: float) -> float:
+    """
+    Divide (a by b)*100.
+
+    :param a: Numerator
+    :param b: Denominator
+    :return: Quotient of (a / b)%
+    :raises ZeroDivisionError: If b is zero
+    """
+    if b == 0:
+        raise ZeroDivisionError("Cannot divide by zero.")
+    return (a / b)*100
