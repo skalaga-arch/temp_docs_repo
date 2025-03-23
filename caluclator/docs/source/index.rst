@@ -1,9 +1,9 @@
-.. Calculator documentation master file, created by
-   sphinx-quickstart on Sat Mar 22 20:26:31 2025.
+.. calculator documentation master file, created by
+   sphinx-quickstart on Sat Mar 22 22:12:38 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Calculator documentation
+calculator documentation
 ========================
 
 Add your content using ``reStructuredText`` syntax. See the
