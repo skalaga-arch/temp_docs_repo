@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: calculator
+Version: 0.1.0
+Summary: A simple calculator library for basic arithmetic operations.
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/yourusername/calculator
+Project-URL: Repository, https://github.com/yourusername/calculator
+Keywords: calculator,math,arithmetic
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Calculator
+
+A simple Python calculator package with basic arithmetic functions.
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Usage
+
+```python
+from calculator import add
+
+print(add(2, 3))  # Output: 5
