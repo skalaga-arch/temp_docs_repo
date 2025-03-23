@@ -1,11 +1,17 @@
-# temp_docs_repo
+# Calculator
 
+A simple Python calculator package with basic arithmetic functions.
 
-# 🧮 Calculator
+## Features
 
-A simple Python calculator that supports basic operations: addition, subtraction, multiplication, and division.
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-## 💻 Usage
+## Usage
 
-```bash
-python calculator/main.py
+```python
+from calculator import add
+
+print(add(2, 3))  # Output: 5
